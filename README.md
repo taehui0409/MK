@@ -1,3 +1,1 @@
-static-assets/
-└─ public/
-   └─ demo.mp4
+public/Back_Sources.mp4
